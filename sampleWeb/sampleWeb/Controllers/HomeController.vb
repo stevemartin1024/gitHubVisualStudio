@@ -5,5 +5,9 @@
         Return View()
     End Function
 
+    Function AboutUs() As ActionResult
+        Return View()
+    End Function
+
 
 End Class
