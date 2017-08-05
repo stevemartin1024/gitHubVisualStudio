@@ -263,6 +263,7 @@
     <Content Include="Views\Shared\Lockout.vbhtml" />
     <Content Include="Views\Shared\_LoginPartial.vbhtml" />
     <Content Include="Views\Home\AboutUs.vbhtml" />
+    <Content Include="Views\Home\Contact.vbhtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="favicon.ico" />
